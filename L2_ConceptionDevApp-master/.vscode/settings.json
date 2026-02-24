@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "filesystem": "cpp",
+        "xlocinfo": "cpp",
+        "xstring": "cpp"
+    }
+}
